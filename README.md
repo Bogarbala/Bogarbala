@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bala
 - 👀 I’m interested in to scale up my techical skills.  
-- 🌱 I’m currently learning in-depth of Dev Ops. 
+- 🌱 I moved into DevOps from Oracle Database Administrator and scaling up my skill. 
 - 📫 How to reach me on +91-8939696645...
 
 <!---
